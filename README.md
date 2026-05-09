@@ -1,2 +1,9 @@
-# PowerBI-HR-Analytics-Dashboard
-HR Analytics Dashboard (Power BI) . This project is an interactive HR Analytics Dashboard built using Power BI to analyze employee attendance patterns, work-from-home trends, and leave behavior over time.
+# Supply Chain Performance & Inventory Optimization Dashboard (Power BI)
+
+This project is my second Power BI dashboard focused on analyzing supply chain operations and inventory performance. The goal is to transform raw operational data into actionable insights that support efficient and data-driven decision-making.
+
+## Objective
+To analyze supply chain data and identify inefficiencies in inventory management, transportation, and order fulfillment to improve overall operational performance.
+
+## Business Context
+In real-world supply chain systems, inefficiencies in inventory planning, transportation, and demand forecasting can lead to increased costs and delays. This project simulates such scenarios and aims to provide insights that help improve operational efficiency and resource utilization.
