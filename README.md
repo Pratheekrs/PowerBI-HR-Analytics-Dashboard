@@ -7,3 +7,13 @@ To analyze supply chain data and identify inefficiencies in inventory management
 
 ## Business Context
 In real-world supply chain systems, inefficiencies in inventory planning, transportation, and demand forecasting can lead to increased costs and delays. This project simulates such scenarios and aims to provide insights that help improve operational efficiency and resource utilization.
+
+## Dataset
+The dataset used in this project simulates real-world supply chain operations and includes:
+
+- Order and sales data  
+- Product and category details  
+- Inventory levels and stock movement  
+- Supplier and logistics information  
+- Transportation cost and lead time  
+- Order status and backorders
