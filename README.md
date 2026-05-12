@@ -6,3 +6,12 @@ The objective of this project is to analyze employee attendance behavior and ide
 
 ## 🏢 Business Context
 Organizations often struggle to monitor employee attendance trends, work-from-home patterns, and leave utilization effectively. This dashboard helps HR teams track workforce behavior, identify attendance fluctuations, and improve workforce planning through data-driven insights.
+
+## Dataset
+The dataset used in this project contains employee attendance records including:
+- Employee ID  
+- Attendance Status  
+- Present Days  
+- Work From Home (WFH) Data  
+- Sick Leave (SL) Records  
+- Date and Month Information
