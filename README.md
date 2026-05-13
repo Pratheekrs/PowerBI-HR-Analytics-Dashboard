@@ -15,3 +15,9 @@ The dataset used in this project contains employee attendance records including:
 - Work From Home (WFH) Data  
 - Sick Leave (SL) Records  
 - Date and Month Information
+
+## Key KPIs
+- *Attendance %*
+- *Work From Home (WFH) %*
+- *Sick Leave (SL) %*
+- *Present Days Analysis*
