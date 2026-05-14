@@ -21,3 +21,12 @@ The dataset used in this project contains employee attendance records including:
 - *Work From Home (WFH) %*
 - *Sick Leave (SL) %*
 - *Present Days Analysis*
+
+## Key Metrics (DAX)
+The following KPIs were created using DAX:
+- Attendance Percentage  
+- Work From Home Percentage  
+- Sick Leave Percentage  
+- Daily Attendance Trends  
+
+These metrics help evaluate employee engagement and workforce behavior over time.
