@@ -30,3 +30,10 @@ The following KPIs were created using DAX:
 - Daily Attendance Trends  
 
 These metrics help evaluate employee engagement and workforce behavior over time.
+
+# Analysis Performed
+- Attendance trend analysis over time  
+- Work From Home and Sick Leave tracking  
+- Employee attendance behavior analysis  
+- Day-wise workforce trend monitoring  
+- Monthly attendance performance evaluation
