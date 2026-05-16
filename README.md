@@ -37,3 +37,10 @@ These metrics help evaluate employee engagement and workforce behavior over time
 - Employee attendance behavior analysis  
 - Day-wise workforce trend monitoring  
 - Monthly attendance performance evaluation
+
+## Key Insights
+- Attendance trends fluctuated across different periods  
+- WFH percentage increased during mid-month periods  
+- Certain weekdays showed higher attendance consistency  
+- Sick leave patterns highlighted operational impact periods  
+- Employee presence trends helped identify workforce engagement levels
